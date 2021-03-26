@@ -1,16 +1,22 @@
+import { StatusBar } from 'expo-status-bar';
 import React from 'react';
-import {
-  View,
-  Text,
-} from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
+import styles from './styles';
 
-
-const App = () => {
+const App = (props) => {
   return (
-    <View style={{ flex: 1, justifyContent: "center", alignItems: "center" }}>
-      <Text>Hello, world!</Text>
+    <View style={styles.container}>
+      <View style= { styles.logoContainer }>
+        <Text style = { styles.logoText }>
+          Newzzz
+        </Text>
+        <Text style = { styles.logoDescription }>
+          Get your doze of daily news!
+        </Text>
+        
+      </View>
     </View>
   );
-};
+}
 
-export default App;
+export default App
