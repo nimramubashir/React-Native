@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import {View,Text,Button,Image,ImageBackground} from 'react-native';
+import {View,Text,ImageBackground} from 'react-native';
 import styles from './styles';
 
 const SplashScreen = (props) => {
@@ -42,7 +42,6 @@ const App = () => {
   const [articles, setArticles] = useState([]);
   const [loading, setLoading ] = useState(true);
   useEffect(()=>{
-    //fetch(URL)
     fetch(URL)
     .then((response) => response.json())
     .then((responseJson) => {
