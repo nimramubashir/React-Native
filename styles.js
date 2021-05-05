@@ -11,6 +11,14 @@ const styles = StyleSheet.create({
         alignItems: "center",
         backgroundColor: "orange"
     },
+    backgroundImage:{
+        flex: 1,
+        width: '100%',
+        height: '100%',
+        justifyContent: "center",
+        alignItems: "center",
+        opacity: 0.7
+    },
     logoContainer:{
         alignItems: "center",
     },
@@ -27,3 +35,4 @@ const styles = StyleSheet.create({
 });
 
 export default styles;
+

@@ -1,0 +1,28 @@
+{
+	"articles": [
+    {
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Brian Heater",
+			"title": "Smartphone shipments jumped 27% globally in Q1",
+			"description": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the same time last year. The industry was hit early and hit hard…",
+			"url": "https://techcrunch.com/2021/04/29/smartphone-shipments-jumped-27-globally-in-q1/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1209693436.jpg?w=667",
+			"publishedAt": "2021-04-29T14:07:15Z",
+			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
+		},
+    {
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Brian Heater",
+			"title": "Smartphone shipments jumped 27% globally in Q1",
+			"description": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the same time last year. The industry was hit early and hit hard…",
+			"url": "https://techcrunch.com/2021/04/29/smartphone-shipments-jumped-27-globally-in-q1/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1209693436.jpg?w=667",
+			"publishedAt": "2021-04-29T14:07:15Z",
+			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
+		}]}
