@@ -38,13 +38,12 @@ const HomeScreen = (props) => {
 }
 
 const App = () => {
-  const API_KEY = "f68807c4f5f04ac7bad3a936575a5e60";
-  const URL = `https://newsapi.org/v2/top-headlines?sources=techcrunch&apiKey=${API_KEY}`;
+  const URL = 'https://raw.githubusercontent.com/nimramubashir/React-Native/fetch/articles.json';
   const [articles, setArticles] = useState([]);
   const [loading, setLoading ] = useState(true);
   useEffect(()=>{
     //fetch(URL)
-    fetch('./articles.json')
+    fetch(URL)
     .then((response) => response.json())
     .then((responseJson) => {
       return responseJson.articles;
