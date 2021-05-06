@@ -1,7 +1,7 @@
 {
 	"articles": 
 	[
-    	{
+    		{
 			"source": {
 				"id": "techcrunch",
 				"name": "TechCrunch"
@@ -14,7 +14,7 @@
 			"publishedAt": "2021-04-29T14:07:15Z",
 			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
 		},
-        {
+        	{
 			"source": {
 				"id": "techcrunch",
 				"name": "TechCrunch"
@@ -26,6 +26,6 @@
 			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1209693436.jpg?w=667",
 			"publishedAt": "2021-04-29T14:07:15Z",
 			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
-	    }
-    ]
+	    	}
+    	]
 }
