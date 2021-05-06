@@ -1,7 +1,7 @@
 {
 	"articles": 
 	[
-    		{
+		{
 			"source": {
 				"id": "techcrunch",
 				"name": "TechCrunch"
@@ -14,18 +14,136 @@
 			"publishedAt": "2021-04-29T14:07:15Z",
 			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
 		},
-        	{
-			"source": {
-				"id": "techcrunch",
-				"name": "TechCrunch"
+		{
+        	"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
 			},
-			"author": "Brian Heater",
-			"title": "Smartphone shipments jumped 27% globally in Q1",
-			"description": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the same time last year. The industry was hit early and hit hard…",
-			"url": "https://techcrunch.com/2021/04/29/smartphone-shipments-jumped-27-globally-in-q1/",
-			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/GettyImages-1209693436.jpg?w=667",
-			"publishedAt": "2021-04-29T14:07:15Z",
-			"content": "More good news from a smartphone market currently rebounding from the far reaching impacts of the pandemic. New numbers from Canalys put global shipments for Q1 2021 at 27% above where they were the … [+1484 chars]"
-	    	}
-    	]
+			"author": "Kirsten Korosec",
+			"title": "Autonomous trucking startup Einride raises $110M ahead of expansion into US",
+			"description": "Einride, the Swedish startup known for its unusual-looking electric and autonomous pods that are designed to carry freight, has raised $110 million to help fund its expansion in Europe and into the United States. The Series B round, which far exceeds its prev…",
+			"url": "https://techcrunch.com/2021/05/06/autonomous-trucking-startup-einride-raises-110m-ahead-of-expansion-into-united-states/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/Sunset-Pod.jpg?w=648",
+			"publishedAt": "2021-05-06T07:01:46Z",
+			"content": "Einride, the Swedish startup known for its unusual-looking electric and autonomous pods that are designed to carry freight, has raised $110 million to help fund its expansion in Europe and into the U… [+3264 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Ingrid Lunden",
+			"title": "Shift Technology raises $220M at a $1B+ valuation to fight insurance fraud with AI",
+			"description": "While insurance providers continue to get disrupted by startups like Lemonade, Alan, Clearcover, Pie and many others applying tech to rethink how to build a business around helping people and companies mitigate against risks with some financial security, one …",
+			"url": "https://techcrunch.com/2021/05/05/shift-technology-raises-220m-at-a-1b-valuation-to-fight-insurance-fraud-with-ai/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2020/02/GettyImages-1182994800.jpg?w=560",
+			"publishedAt": "2021-05-06T06:37:50Z",
+			"content": "While insurance providers continue to get disrupted by startups like Lemonade, Alan, Clearcover, Pie and many others applying tech to rethink how to build a business around helping people and compani… [+3930 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Manish Singh",
+			"title": "Krafton announces PUBG Mobile India return",
+			"description": "PUBG Mobile developer said it will bring the title back as Battlegrounds Mobile India.",
+			"url": "https://techcrunch.com/2021/05/05/krafton-announces-pubg-mobile-india-return-under-battlegrounds-mobile-title/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2020/09/GettyImages-1227838310.jpg?w=600",
+			"publishedAt": "2021-05-06T06:23:44Z",
+			"content": "Krafton, the South Korean video game developer of PUBG Mobile, said on Thursday that it is bringing back the popular gaming title to India under the brand name Battlegrounds Mobile India. The new tit… [+1975 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Rita Liao",
+			"title": "Tesla supplier Delta Electronics invests $7M in AI chip startup Kneron",
+			"description": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles. Kneron, a startup that develops semiconductors to give devices artificial intelligence…",
+			"url": "https://techcrunch.com/2021/05/05/delta-electronics-kneron/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/01/kneron-e1610971717245.jpg?w=749",
+			"publishedAt": "2021-05-06T04:51:05Z",
+			"content": "Despite a persistent semiconductor shortage that is disrupting the global automotive industry, investors remain bullish on the chips used to power next-generation vehicles.\r\nKneron, a startup that de… [+2169 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Taylor Hatmaker",
+			"title": "Twitter rolls out bigger images and cropping control on iOS and Android",
+			"description": "Twitter just made a change to the way it displays images that has visual artists on the social network celebrating. In March, Twitter rolled out a limited test of uncropped, larger images in users’ feeds. Now, it’s declared those tests a success and improved …",
+			"url": "https://techcrunch.com/2021/05/05/twitter-image-cropping-changes/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/twitter-image-preview.jpg?w=711",
+			"publishedAt": "2021-05-06T04:35:52Z",
+			"content": "Twitter just made a change to the way it displays images that has visual artists on the social network celebrating.\r\nIn March, Twitter rolled out a limited test of uncropped, larger images in users’ … [+1768 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Catherine Shu",
+			"title": "Founded by former Carousell and Fave execs, Rainforest gets $36M to consolidate Asia-Pacific Amazon Marketplace brands",
+			"description": "Singapore-based Rainforest is one of the newest entrants in the wave of startups that “roll-up” small e-commerce brands. Launched in January by alumni from some of Southeast Asia’s top startups, including Carousell, OVO and Fave, Rainforest acquires Amazon ma…",
+			"url": "https://techcrunch.com/2021/05/05/founded-by-former-carousell-ovo-and-fave-execs-rainforest-raises-36m-to-aggregate-asia-pacific-amazon-marketplace-sellers/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/L-R-Elita-Subaja-Business-Operations-Strategy-Director-JJ-Chai-Co-founder-CEO-Jerry-Ng-Brand-Manager--e1620193457918.jpg?w=557",
+			"publishedAt": "2021-05-06T01:00:55Z",
+			"content": "From left to right: Rainforest business operations and strategy director Elita Subaja; co-founder and CEO J.J. Chai and brand manager Jerry Ng\r\nSingapore-based Rainforest is one of the newest entrant… [+4949 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Catherine Shu",
+			"title": "Una Brands launches with $40M to roll up brands on multiple Asia-Pacific e-commerce platforms",
+			"description": "One of the biggest funding trends of the past year is companies that consolidate small e-commerce brands. Many of the most notable startups in the space, like Thrasio, Berlin Brands Group and Branded Group, focus on consolidating Amazon Marketplace sellers. B…",
+			"url": "https://techcrunch.com/2021/05/05/una-brands-launches-with-40m-to-acquire-brands-on-multiple-asia-pacific-e-commerce-platforms/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/DSC00628-Edit-2-SEND.jpg?w=600",
+			"publishedAt": "2021-05-05T23:13:49Z",
+			"content": "Una Brands’ co-founders (from left to right): Tobias Heusch, Kiran Tanna and Kushal Patel\r\nOne of the biggest funding trends of the past year is companies that consolidate small e-commerce brands. Ma… [+4715 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Manish Singh",
+			"title": "China expresses concern over its absence in India’s 5G trials",
+			"description": "China expressed concern on Wednesday over India’s move to not grant any Chinese firm permission to participate in 5G trials in the world’s second largest internet market as the two neighboring nations struggle to navigate business ties amid their geo-politica…",
+			"url": "https://techcrunch.com/2021/05/05/china-expresses-concern-over-its-absence-in-indias-5g-trials/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/GettyImages-506678966.jpg?w=600",
+			"publishedAt": "2021-05-05T23:04:44Z",
+			"content": "China expressed concern on Wednesday over Indias move to not grant any Chinese firm permission to participate in 5G trials in the worlds second largest internet market as the two neighboring nations … [+3373 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Alex Wilhelm",
+			"title": "Uber's mixed Q1 earnings portray an evolving business",
+			"description": "Surprised by the revenue miss? Shocked by the profit beat? Startled by the sharp drop in the value of Uber's stock? Let's unpack the numbers.",
+			"url": "https://techcrunch.com/2021/05/05/ubers-mixed-q1-earnings-portray-an-evolving-business/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/03/uber-GettyImages-1231264333.jpg?w=600",
+			"publishedAt": "2021-05-05T22:41:06Z",
+			"content": "Today, Uber followed Lyft in reporting its Q1 2021 earnings this week. And like its rival, its results take a little bit of work to understand. So, this afternoon, we’re going to parse them as a pair… [+1678 chars]"
+		},
+		{
+			"source": {
+			"id": "techcrunch",
+			"name": "TechCrunch"
+			},
+			"author": "Darrell Etherington, Aria Alamalhodaei",
+			"title": "SpaceX successfully launches and lands its Starship prototype rocket",
+			"description": "SpaceX flew the 15th prototype of its Starship fully reusable next-generation rocket today, with a test flight that included a successful climb to around 30,000 feet, as well as a controlled flip, descent and soft landing upright as planned. A very small fire…",
+			"url": "https://techcrunch.com/2021/05/05/spacex-successfully-launches-and-lands-its-starship-prototype-rocket/",
+			"urlToImage": "https://techcrunch.com/wp-content/uploads/2021/05/A4DBF4C1-B910-4586-9447-B69F5C8B54E0.jpeg?w=715",
+			"publishedAt": "2021-05-05T22:40:48Z",
+			"content": "SpaceX flew the 15th prototype of its Starship fully reusable next-generation rocket today, with a test flight that included a successful climb to around 30,000 feet, as well as a controlled flip, de… [+1703 chars]"
+		}
+
+	]
 }
