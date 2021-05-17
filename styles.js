@@ -2,7 +2,6 @@ import {
     StyleSheet,
 } from 'react-native';
 
-
 const styles = StyleSheet.create({
     container: {
         flex: 1,
@@ -31,7 +30,34 @@ const styles = StyleSheet.create({
         fontSize: 15,
         fontWeight: '600',
         color: 'white'
-    }
+    },
+
+    articleContainer:{
+        borderWidth: 0,
+        width: '100%',
+        padding: 5
+    },
+    articleImage: {
+        height: 200  
+    },
+    articleTitle:{
+        textAlign: "center",
+        padding: 20,
+        fontSize: 17,
+        color: 'black',
+        backgroundColor: 'white',
+        
+    },
+    articleDescription:{
+        fontSize: 17,
+        padding: 10,
+        color: 'black',
+        backgroundColor: 'white',
+    },
+    articleBtns:{
+        flexDirection: 'row',
+        backgroundColor: 'white',
+    },
 });
 
 export default styles;
